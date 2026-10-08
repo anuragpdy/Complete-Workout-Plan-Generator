@@ -222,5 +222,3 @@ This keeps structured schema validation separate from application-specific valid
 - The plan does not automatically refresh when inputs change; the user must click Generate Plan again.
 - Automated tests are not currently implemented and are deferred to future assignments.
 
-## License
-MIT License (or as preferred by the project owner).
